@@ -1,5 +1,7 @@
 # Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+---
+
 ## About me
 
 * Platform Engineer
@@ -10,6 +12,8 @@
     <img src="https://github.com/AnikBeris/AnikBeris/blob/main/media/WRTs.png" height="250" />
     <img src="https://github-readme-stats.vercel.app/api?username=AnikBeris&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="AnikBeris">
 </p>
+
+---
 
 ## Languages and Tools:
 <!-- TODO-IST:START -->
