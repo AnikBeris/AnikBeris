@@ -7,8 +7,8 @@
 ## 📊 <b>GitHub stats</b>:
 <br>
 <p align = "center">
-    <img src="https://raw.githubusercontent.com/Tkd-Alex/tkd-alex/master/images/321517cd-ff68-41a7-b0d1-e765680568a7-8b6448d9-c944-4146-b633-adbdd25cb471-v1.png" height="250" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AnikBeris&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tkd-alex">
+    <img src="https://github.com/AnikBeris/AnikBeris/blob/main/media/WRTs.png" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AnikBeris&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="AnikBeris">
 </p>
 
 ## Languages and Tools:
